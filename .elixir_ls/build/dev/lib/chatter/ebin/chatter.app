@@ -1,0 +1,10 @@
+{application,chatter,
+             [{applications,[kernel,stdlib,elixir,logger,gettext,
+                             phoenix_pubsub,cowboy,phoenix_html,phoenix,
+                             phoenix_live_reload,postgrex,phoenix_ecto]},
+              {description,"chatter"},
+              {modules,['Elixir.Chatter','Elixir.Chatter.Web']},
+              {registered,[]},
+              {vsn,"0.0.1"},
+              {mod,{'Elixir.Chatter',[]}},
+              {extra_applications,[logger]}]}.
