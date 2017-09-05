@@ -10,7 +10,7 @@
   </div>
   <div class="col-md-4">
     <h3>Users Online:</h3>
-    <ul id=usersList class="list-unstyled">
+    <ul id=userList class="list-unstyled">
     </ul>
   </div>
 </div>
