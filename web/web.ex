@@ -53,6 +53,7 @@ defmodule Chatter.Web do
       import Chatter.Router.Helpers
       import Chatter.ErrorHelpers
       import Chatter.Gettext
+      import Chatter.ViewHelper
     end
   end
 
